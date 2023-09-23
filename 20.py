@@ -14,6 +14,6 @@ for number in numbers:
 
 print("Sum of numbers:", total)
 
-count=len(numbers)
-avg=total/count
+count = len(numbers)
+avg = total / count
 print(avg)
